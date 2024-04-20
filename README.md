@@ -11,7 +11,7 @@ Default apache2 configuration is ok for this website.
 
 1. sudo apt update && sudo apt upgrade -y
 
-2. sudo apt install apache2 -y && sudo apt install php8.1
+2. sudo apt install apache2 -y && sudo apt install php8.1 && sudo apt install git
 
 3. sudo systemctl enable apache2
 
