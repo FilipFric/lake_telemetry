@@ -15,8 +15,10 @@ Default apache2 configuration is ok for this website.
 
 3. cd /var/www/html
 
-4. sudo git clone github.com/FilipFric/lake_telemetry
+4. sudo git clone https://github.com/FilipFric/lake_telemetry
 
-5. sudo systemctl enable apache2
+5. sudo mv lake_telemetry/* . && sudo rm -r lake_telemetry
+  
+6. sudo systemctl enable apache2
 
-6. sudo systemctl start apache2
+7. sudo systemctl start apache2
