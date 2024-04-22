@@ -1,0 +1,54 @@
+h1 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+iframe {
+	height: 8cm;
+	position: absolute;
+	left: 50%;
+	top: 55%;
+	transform: translate(-50%, -50%);
+}
+
+.forms {
+	position: absolute;
+	bottom: 0%;
+	left: 50%;
+	transform: translate(-50%, -30%);
+}
+
+.frame { 
+	position: absolute;
+	left: 50%;
+	top: 40%;
+	transform: translate(-50%, -40%);
+	height: 15cm;
+}
+
+.logout {
+	position: absolute;
+	left: 1.5%;
+	bottom: 2%;
+}
+
+.back {
+	position: absolute;
+	left: 1.5%;
+	top: 2%;
+
+}
+
+.submit:hover {
+	cursor: pointer;
+}
+
+.ps_change {
+	position: absolute;
+	top: 2%;
+	right: 1.5%;
+
+}

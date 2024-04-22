@@ -1,0 +1,32 @@
+form {
+	position: absolute;
+	left: 50%;
+	top: 45%;
+	transform: translate(-50%, -50%);
+}
+
+input {
+	font-size: 0.6cm
+}
+
+a {
+	position: absolute;
+	top: 2%;
+	left: 1.5%;
+}
+
+p {
+	text-align: center;
+}
+
+.submit:hover {
+	cursor: pointer;
+}
+
+.red {
+	color: red;
+}
+
+.green {
+	color: green;
+}

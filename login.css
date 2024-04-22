@@ -1,0 +1,55 @@
+form {
+	position: absolute;
+	left: 50%;
+	top: 45%;
+	transform: translate(-50%, -50%);
+}
+
+h1 {
+	text-align: center;
+}
+
+input {
+	margin: 0.2cm;
+}
+
+p {
+	position: absolute;
+	top: 25%;
+	left: 28%;
+	color: red;
+}
+
+a {
+	position: absolute;
+	top: 2%;
+	left: 1.5%;
+}
+
+.username {
+	height: 0.8cm;
+	font-size: 0.6cm;
+}
+
+.password {
+	height: 0.8cm;
+	font-size: 0.6cm;
+}
+
+
+.submit {
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%);
+	width: 2cm;
+	height: 1cm;
+	font-size: 0.45cm;
+}
+
+.submit:hover {
+	cursor: pointer;
+}
+
+
+
+

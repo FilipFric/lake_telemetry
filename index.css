@@ -1,0 +1,44 @@
+#Title {
+	text-align: center;
+}
+
+#login_button {
+	position: absolute;
+	right: 2%;
+	top: 2%;
+}
+
+#current_data {
+    font-size: 24px;
+    text-align: center;
+}
+
+#color_picker {
+	position: absolute;
+	top: 4.5cm;
+	left: 1.5cm;
+	width: 6.5cm;
+	height: 2cm;
+}
+
+#lineColor {
+	width: 3cm;
+	height: 2cm;
+}
+
+button {
+	margin-left: 0.5cm;
+	position: absolute;
+	width: 3cm;
+	height: 2cm;
+	top: 0%;
+}
+
+button:hover {
+	cursor: pointer;
+}
+
+p {
+	text-align: center;
+	font-size: 24px;
+}
