@@ -13,6 +13,10 @@ Default apache2 configuration is ok for this website.
 
 2. sudo apt install apache2 -y && sudo apt install php8.1 && sudo apt install git
 
-3. sudo systemctl enable apache2
+3. cd /var/www/html
 
-4. sudo systemctl start apache2
+4. sudo git clone github.com/FilipFric/lake_telemetry
+
+5. sudo systemctl enable apache2
+
+6. sudo systemctl start apache2
