@@ -7,6 +7,8 @@ It runs on Apache/2.4.52.
 
 Default apache2 configuration is ok for this website.
 
+Default password is 123.
+
 ##Installation##
 
 1. sudo apt update && sudo apt upgrade -y
