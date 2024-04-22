@@ -1,7 +1,7 @@
 # lake_telemetry
 This website displays a graph of lake temperature over a period of time.
 
-It is made with plain PHPv8.1.2 and plain JavaScript.
+It is made with plain PHPv8.1.2 and plain JavaScript + chart.js.
 
 It runs on Apache/2.4.52.
 
